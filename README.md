@@ -4,4 +4,4 @@
 <p>The results found by the analysis of the dataset are used for the pre-processing. In pre-processing, insignificant features shown by the analysis are removed using technique such as backward elimination and forward selection. The features which are highly correlated are merged using technique known as PCA. The skewness of dataset is the most crucial property of this dataset. This skewness is removed by using concept of upsampling which helps to create dummy records of labels which are less dominant.</p>
 <p>The ultimate part is training a model which will be most optimal in prediction of mortgage defaults. The models are trained using classifiers and it is found that the LGBMClassifier is the most optimal classifier of all the other classifiers used to train the model along with the data. The accuracy of this LGBMClassfier 81.77%.</p>
 
-<p>Note: To avail the dataset vist <a href="creditriskanalytics.net">site</a>.</p>
+<p>Note: To avail the dataset vist <a href="http://www.creditriskanalytics.net/">site</a>.</p>
